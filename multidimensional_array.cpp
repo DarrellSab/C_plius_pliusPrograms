@@ -19,7 +19,7 @@ int main() {
         {
             //cout<< "Enter sales for places "<<d+1;
            // cout<<", month "<<m+1<<": ";
-            sales[d][m] = rand()%1000+1;
+            sales[d][m] = rand()%100+1;
         }
     cout<<endl<<endl;
         cout<<"            Month\n";
