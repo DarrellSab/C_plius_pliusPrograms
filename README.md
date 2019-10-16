@@ -1,2 +1,2 @@
-# C_pius_pliusPrograms
+# C_plius_pliusPrograms
 C++ programs  for knowing and understanding
