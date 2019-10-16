@@ -9,8 +9,6 @@ using  namespace std;
 const int PLACES = 5;
 const int MONTHS = 3;
 
-
-
 int main() {
     srand(time(NULL));
     int d, m;
