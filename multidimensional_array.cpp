@@ -7,7 +7,7 @@ The code inspired by Robert Lafore Object-oriented programming in C++
 #include <ctime>
 using  namespace std;
 const int PLACES = 5;
-const int MONTHS = 4;
+const int MONTHS = 12;
 
 int main() {
     srand(time(NULL));
