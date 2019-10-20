@@ -38,3 +38,4 @@
 *.cmake
 CMake*
 cmake*
+*.xml
