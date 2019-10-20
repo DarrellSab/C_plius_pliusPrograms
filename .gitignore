@@ -29,4 +29,28 @@
 # Executables
 *.exe
 *.out
+*.ap# Fortran module files
+  
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
 *.app
+.idea
+#added
+*.txt
+*.make
+*.cmake
+CMake*
+cmake*
+*.xml
+-- INSERT --                                                  32,5          Bot
+
