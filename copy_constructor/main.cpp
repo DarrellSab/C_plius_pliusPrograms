@@ -11,9 +11,12 @@ private: //We could not use private access modifiers because in an class private
 public:
     ////////////////////////////////////////////////////////////////////////
 <<<<<<< HEAD
+<<<<<<< HEAD
     //All constructors can perform initialization work for the object
     //Whenever an object is created, one of its constructors is executed
     //The constructor creates an object and initializes its values
+=======
+>>>>>>> dev
 =======
 >>>>>>> dev
     //Default constructor
@@ -74,7 +77,11 @@ int main() {
  */
     return 0;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dev
 =======
 }
 >>>>>>> dev

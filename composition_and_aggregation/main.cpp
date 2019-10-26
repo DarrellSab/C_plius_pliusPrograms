@@ -1,9 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
 /*
  * Created by Darius Sabaliauskas
  */
 
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
 #include <iostream>
 #include <string>

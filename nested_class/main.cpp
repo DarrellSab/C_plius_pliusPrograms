@@ -37,12 +37,21 @@ public:
     }
     void getStudentsInfo()
     {
+<<<<<<< HEAD
     for(int i=0; i<LENGTH;i++)
     {
        cout<<cStudent[i].GetInfo()<<endl;
     }
     }
     void geTeachersInfo()
+=======
+        for(int i=0; i<LENGTH;i++)
+        {
+            cout<<cStudent[i].GetInfo()<<endl;
+        }
+    }
+    void getTeachersInfo()
+>>>>>>> dev
     {
         for(int i=0; i<LENGTH;i++)
         {
@@ -60,16 +69,27 @@ public:
     }
 
 private:
+<<<<<<< HEAD
     friend void Human::TakeName(CUniversity &student);
+=======
+
+>>>>>>> dev
     string m_FirstName;
     string m_SecondName;
     static const int LENGTH = 4;
     CStudent cStudent[LENGTH]
             {
+<<<<<<< HEAD
         CStudent(1,125),
         CStudent(2,126),
         CStudent(3,225),
         CStudent(4,1025)
+=======
+                    CStudent(1,125),
+                    CStudent(2,126),
+                    CStudent(3,225),
+                    CStudent(4,1025)
+>>>>>>> dev
             };
     int m_age;
     //this is inner class in private access specifier
@@ -91,10 +111,17 @@ private:
     };
     CTeachers cTeachers[LENGTH]
             {
+<<<<<<< HEAD
         CTeachers(1,12),
         CTeachers(2,15),
         CTeachers(3,27),
         CTeachers(4,56)
+=======
+                    CTeachers(1,12),
+                    CTeachers(2,15),
+                    CTeachers(3,27),
+                    CTeachers(4,56)
+>>>>>>> dev
             };
 
 };
@@ -105,7 +132,11 @@ int main() {
     student.getStudentsInfo();
 
     CUniversity teacher;
+<<<<<<< HEAD
     teacher.geTeachersInfo();
+=======
+    teacher.getTeachersInfo();
+>>>>>>> dev
     CUniversity member;
     member.setName("Darrell","Johnson" );
     teacher.setName("John", "James");
