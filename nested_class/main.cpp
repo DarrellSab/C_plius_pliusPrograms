@@ -7,20 +7,11 @@
 #include <vector>
 using namespace std;
 
-class CUniversity;
-class Human
-{
-public:
-    void TakeName(CUniversity &student)
-    {
 
-    }
-};
 class CUniversity
 {
 public:
-
-
+    //this is inner class
     class CStudent
     {
     public:
@@ -37,8 +28,6 @@ public:
     private:
         int m_iNUmberOfBook;
         int m_iStudentID;
-
-
     };
     CUniversity()
     {}
@@ -83,6 +72,7 @@ private:
         CStudent(4,1025)
             };
     int m_age;
+    //this is inner class in private access specifier
     class CTeachers
     {
     public:
