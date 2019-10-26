@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+/*
+ * Created by Darius Sabaliauskas
+ */
+
+>>>>>>> dev
 #include <iostream>
 #include <string>
 using namespace std;

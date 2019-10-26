@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -30,6 +31,9 @@
 *.exe
 *.out
 *.ap# Fortran module files
+=======
+# Fortran module files
+>>>>>>> dev
   
 *.mod
 *.smod
