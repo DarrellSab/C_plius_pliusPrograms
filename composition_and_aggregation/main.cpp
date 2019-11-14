@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> dev
 /*
  * Created by Darius Sabaliauskas
  */
-
-
 #include <iostream>
 #include <string>
 using namespace std;

@@ -10,15 +10,9 @@ private: //We could not use private access modifiers because in an class private
     double m_dWeight;
 public:
     ////////////////////////////////////////////////////////////////////////
-<<<<<<< HEAD
-<<<<<<< HEAD
     //All constructors can perform initialization work for the object
     //Whenever an object is created, one of its constructors is executed
     //The constructor creates an object and initializes its values
-=======
->>>>>>> dev
-=======
->>>>>>> dev
     //Default constructor
     CSomeObject()
     // "This pointer" will show address of your every object which will be created
@@ -76,12 +70,8 @@ int main() {
  * You can run debugger and will see how everything is running
  */
     return 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> dev
-=======
-}
->>>>>>> dev
+
+
+

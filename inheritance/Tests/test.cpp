@@ -30,8 +30,4 @@ TEST_F(ClassDeclaration,nameOfTheTest2)
     ASSERT_THAT(95.00, testing::Eq(obj.getAge()));
     //ASSERT_EQ("",1);
 }
-/*
-int main(int argc, char **argv) {
-    ::testing::InitGoogleTest(&argc, argv);
-    return RUN_ALL_TESTS();
-}*/
+
