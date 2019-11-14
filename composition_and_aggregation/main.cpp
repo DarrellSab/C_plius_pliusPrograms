@@ -7,10 +7,7 @@
  * Created by Darius Sabaliauskas
  */
 
-<<<<<<< HEAD
->>>>>>> dev
-=======
->>>>>>> dev
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -56,7 +53,7 @@ private:
     public:
         void teachingStudents()
         {
-            cout<<"Departaments organize teaching of students"<<endl;
+            cout<<"Departaments organize teaching of students tomorow"<<endl;
         }
     };
     CDepartament student;
